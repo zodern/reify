@@ -39,7 +39,7 @@
   "devDependencies": {
     "@babel/core": "7.7.2",
     "@babel/parser": "7.7.3",
-    "@babel/plugin-transform-runtime": "7.5.0",
+    "@babel/plugin-transform-runtime": "7.6.2",
     "@babel/preset-env": "7.5.0",
     "lodash": "4.17.11",
     "mocha": "6.1.4",
